@@ -35,12 +35,7 @@ print("""
 -------------------------------------------------
   
   """)
-print
-print "Author   : MD ALAMIN HOSSEN"
-print "You Tube :https://youtube.com/channel/UCMrnk1Z8twD9CtM72Qsg4og"
-print "github   : https://github.com/Team-Back-Berry"
-print "Facebook : https://www.facebook.com/Lederteamblackberry"
-print
+
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
  
