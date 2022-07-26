@@ -19,6 +19,22 @@ bytes = random._urandom(1490)
  
 os.system("clear")
 os.system("figlet DDos Attack")
+
+
+print("\033[H\033[J")
+print("""
+                         
+████████╗██████╗ ██████╗ 
+╚══██╔══╝██╔══██╗██╔══██╗
+   ██║   ██████╔╝██████╔╝
+   ██║   ██╔══██╗██╔══██╗
+   ██║   ██████╔╝██████╔╝
+   ╚═╝   ╚═════╝ ╚═════╝ 
+-------------------------------------------------
+   		TEAM-BLACK-BERRY
+-------------------------------------------------
+  
+  """)
 print
 print "Author   : MD ALAMIN HOSSEN"
 print "You Tube :https://youtube.com/channel/UCMrnk1Z8twD9CtM72Qsg4og"
